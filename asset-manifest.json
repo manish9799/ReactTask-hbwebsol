@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactTask-hbwebsol/static/css/main.3dbc1015.css",
+    "main.js": "/ReactTask-hbwebsol/static/js/main.4c3efd7b.js",
+    "static/js/787.b6dff4bc.chunk.js": "/ReactTask-hbwebsol/static/js/787.b6dff4bc.chunk.js",
+    "index.html": "/ReactTask-hbwebsol/index.html",
+    "main.3dbc1015.css.map": "/ReactTask-hbwebsol/static/css/main.3dbc1015.css.map",
+    "main.4c3efd7b.js.map": "/ReactTask-hbwebsol/static/js/main.4c3efd7b.js.map",
+    "787.b6dff4bc.chunk.js.map": "/ReactTask-hbwebsol/static/js/787.b6dff4bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dbc1015.css",
+    "static/js/main.4c3efd7b.js"
+  ]
+}
